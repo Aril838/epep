@@ -80,7 +80,7 @@ exports.listMenu = (time, salam, pushname, prefix) => {
     return `
 *Selamat ${salam} ${pushname} 😖*
 *⌚Time Server : ${time}*
-*📚 List-Menu Alphabot Beta :*
+*📚 List-Menu Aril Botz Beta :*
 
 🤖 *INFO*
 ├ ${prefix}owner
@@ -222,8 +222,8 @@ Arigatou Gozaimasu! Untuk kalian user ramah dan Beberapa orang yg ikut membantu 
 exports.source = (prefix) =>{
 return`*── 「 SOURCE 」 ──*
 
-Original : https://github.com/rashidsiregar28/chikabot
-Sc Recode : https://github.com/zeeoneofc/Alphabot-Md
+Original : Private
+Sc Recode : Private
 `
 }
 exports.tos = (ownerNumber, prefix) => {
